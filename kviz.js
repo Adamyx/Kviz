@@ -54,5 +54,13 @@ const questions = [
         question: "Hogyan hívják Az ember tragédiája főszereplőjét?",
         answers: ["Ádám", "Lucifer", "Mindkettő fontos szereplő"],
         correct: 2
+    },
+    { 
+        subject: "történelem",
+        question: "Hol tűnt el Petőfi Sándor?",
+        answers: ["Segesvárnál", "Pestnél", "Debrecennél"],
+        correct: 0
     }
 ];
+
+
